@@ -4,21 +4,16 @@
 This project analyzes employee attrition and identifies key drivers behind employee turnover using Power BI.
 
 🎯 Key Insights
-
-Attrition is highest within the first 2 years of employment
-
-Low-income employees show the highest attrition
-
-Employees without stock options have higher attrition risk
-
-Salary hikes have minimal impact on retention
-
-📊 Dashboard Pages
 1. Demographics
-!(Compensation.png)
+Employees in their early twenties have higher Attrtiion rate.
+![Demographics](Demographics.png)
+
 2. Working Factors
-3. Compensation
-4. Employee Lifecycle Risk
+Attrition is highest in the first 2 years of employment.
+
+4. Compensation
+  ![Demographics](Demographics.png) 
+5. Employee Lifecycle Risk
 
 🛠 Tools Used
 Power BI
