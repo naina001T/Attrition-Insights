@@ -15,6 +15,7 @@ Salary hikes have minimal impact on retention
 
 📊 Dashboard Pages
 1. Demographics
+!(Compensation.png)
 2. Working Factors
 3. Compensation
 4. Employee Lifecycle Risk
