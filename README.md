@@ -15,7 +15,7 @@ Attrition is highest in the first 2 years of employment.
 
 4. Compensation
 Employees in lowest income range and with no stocks shows the highest Attrition rate. 
-  ![Compensation](Compensation.png) 
+![Compensation](Compensation.png)
   
 5. Employee Lifecycle Risk
 
