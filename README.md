@@ -10,8 +10,9 @@ Employees in their early twenties have higher Attrtiion rate.
 
 ![Demographic Insights](Demographic Insights.png)
 
-2. Working Factors
+2. Company Factors
 Attrition is highest in the first 2 years of employment.
+![Company Factors](Company Factors.png)
 
 4. Compensation
 Employees in lowest income range and with no stocks shows the highest Attrition rate. 
