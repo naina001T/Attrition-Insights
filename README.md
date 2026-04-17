@@ -6,16 +6,16 @@ This project analyzes employee attrition and identifies key drivers behind emplo
 🎯 Key Insights
 1. Demographics
 
-Employees in their early twenties have higher Attrtiion rate.
+#  Employees in their early twenties have higher Attrtiion rate.
 
-![Demographic Insights](Demographic Insights.png)
+![DemographicInsights](DemographicInsights.png)
 
 2. Company Factors
-Attrition is highest in the first 2 years of employment.
-![Company Factors](Company Factors.png)
+#  Attrition is highest in the first 2 years of employment.
+![CompanyFactors](CompanyFactors.png)
 
 4. Compensation
-Employees in lowest income range and with no stocks shows the highest Attrition rate. 
+#  Employees in lowest income range and with no stocks shows the highest Attrition rate. 
 ![Compensation](Compensation.png)
   
 5. Employee Lifecycle Risk
