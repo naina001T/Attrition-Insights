@@ -17,7 +17,7 @@ This project analyzes employee attrition and identifies key drivers behind emplo
   
 ## 5. Working Factors
     Poor working factors contribute to higher Attrition Rate
-![WorkingFactors](WorkingFactors)
+![WorkingFactors](WorkingFactors.png)
     
 ## 🛠 Tools Used
 1. Power BI
@@ -26,3 +26,6 @@ This project analyzes employee attrition and identifies key drivers behind emplo
 
 ## 💡 Objective
 To uncover actionable insights that help organizations reduce employee attrition and improve retention strategies.
+
+## File
+Download the Power BI file: Attrition.pbix
